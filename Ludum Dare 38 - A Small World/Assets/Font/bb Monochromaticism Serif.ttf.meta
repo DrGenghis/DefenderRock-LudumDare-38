@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b19987fb810b177498cbb0a6a988a438
+timeCreated: 1492925814
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: bb Monochromaticism Serif
+  fontNames:
+  - bb Monochromaticism Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
